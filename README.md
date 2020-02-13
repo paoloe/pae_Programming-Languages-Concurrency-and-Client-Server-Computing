@@ -1,2 +1,3 @@
-# pae_Programming-Languages-Concurrency-and-Client-Server-Computing
-Contains the labs of this module
+# Programming Languages Concurrency and Client Server Computing
+
+This is an academic repository containing all of my lab work for this module.
