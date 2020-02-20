@@ -38,8 +38,8 @@ We've overspent our Widget budget and the shop is going bust :("
 Src: https://github.com/jimburton/raceconditions
 
 Tasks: 
--[X] Make the method changeNumber thread-safe and fix the race condition: this was achieved by using the "Synchronized" keyword.
--[X] Change the int to an AtomicInteger, remove the "Synchronized" keyword and let the AtomicInteger fix the Race Condition.
+- [X] Make the method changeNumber thread-safe and fix the race condition: this was achieved by using the "Synchronized" keyword.
+- [X] Change the int to an AtomicInteger, remove the "Synchronized" keyword and let the AtomicInteger fix the Race Condition.
 
 #### AtomicInteger
 
