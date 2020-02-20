@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CheckThenAct",
+            "request": "launch",
+            "mainClass": "sem2.week1_threads0.CheckThenAct",
+            "projectName": "pae_ci346_951a6edb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "sem2.week1_threads0.Main",
+            "projectName": "pae_ci346_951a6edb"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
